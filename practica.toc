@@ -1,0 +1,40 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{4}
+\contentsline {section}{\numberline {2}Pr\IeC {\'a}ctica 2}{4}
+\contentsline {subsection}{\numberline {2.1}Introducci\IeC {\'o}n}{4}
+\contentsline {subsection}{\numberline {2.2}Configuraci\IeC {\'o}n del entorno de trabajo}{4}
+\contentsline {subsection}{\numberline {2.3}Ejercicio 1}{4}
+\contentsline {subsection}{\numberline {2.4}Ejercicio 2}{5}
+\contentsline {subsection}{\numberline {2.5}Ejercicio 3}{5}
+\contentsline {subsection}{\numberline {2.6}Ejercicio 4}{5}
+\contentsline {subsection}{\numberline {2.7}Ejercicio 5}{6}
+\contentsline {subsection}{\numberline {2.8}Ejercicio 6}{8}
+\contentsline {section}{\numberline {3}Sesi\IeC {\'o}n 3}{8}
+\contentsline {subsection}{\numberline {3.1}Introducci\IeC {\'o}n}{8}
+\contentsline {subsection}{\numberline {3.2}Actividad 1}{8}
+\contentsline {subsection}{\numberline {3.3}Actividad 2}{8}
+\contentsline {subsection}{\numberline {3.4}Actividad 3}{11}
+\contentsline {subsection}{\numberline {3.5}Actividad 4}{11}
+\contentsline {subsection}{\numberline {3.6}Actividad 5}{13}
+\contentsline {subsection}{\numberline {3.7}Actividad 6}{14}
+\contentsline {section}{\numberline {4}Sesi\IeC {\'o}n 4}{15}
+\contentsline {subsection}{\numberline {4.1}Introducci\IeC {\'o}n}{15}
+\contentsline {subsection}{\numberline {4.2}Implementar un planificador de caminos interpolando los \IeC {\'a}ngulos de los motores}{15}
+\contentsline {subsubsection}{\numberline {4.2.1}Generar dos juegos de \IeC {\'a}ngulos aleatorios}{15}
+\contentsline {subsubsection}{\numberline {4.2.2}Resolver la cinem\IeC {\'a}tica directa para los dos juegos de \IeC {\'a}ngulos}{15}
+\contentsline {subsubsection}{\numberline {4.2.3}Dibujar los ejes de referencia de los dos juegos de \IeC {\'a}ngulos}{15}
+\contentsline {subsubsection}{\numberline {4.2.4}Generar el movimiento para que el robot conecte las dos configuraciones interpolando los \IeC {\'a}ngulos de ejes}{15}
+\contentsline {subsubsection}{\numberline {4.2.5}Dibujar la trayectoria seguida por el centro de la pinza}{16}
+\contentsline {subsection}{\numberline {4.3}Par\IeC {\'a}metros Denavit-Hartenberg}{16}
+\contentsline {subsection}{\numberline {4.4}Implementar un robot con los mismos parametros Denavit-Hartenberg usando las funciones de la Roobotics Toolbox}{16}
+\contentsline {subsection}{\numberline {4.5}Sustituir las matrices $T_{ij}$ en nuestro simulador por las correspondientes matrices Denavit-Hartenberg}{18}
+\contentsline {section}{\numberline {5}Sesi\IeC {\'o}n 5}{19}
+\contentsline {subsection}{\numberline {5.1}Introducci\IeC {\'o}n}{19}
+\contentsline {subsection}{\numberline {5.2}Comprobaci\IeC {\'o}n de la funcion IKPuma560}{19}
+\contentsline {subsubsection}{\numberline {5.2.1}Resolver la cinem\IeC {\'a}tica directa para los \IeC {\'a}ngulos $[0 0 0 0 0 0]$}{19}
+\contentsline {subsubsection}{\numberline {5.2.2}Resolver la cinem\IeC {\'a}tica inversa para la transformaci\IeC {\'o}n homog\IeC {\'e}nea obtenida en el paso anterior, que tiene hasta 8 posibles combinaciones, y hacer un {\tt plot} de todas}{19}
+\contentsline {subsubsection}{\numberline {5.2.3}Repetir la misma operaci\IeC {\'o}n para un juego de \IeC {\'a}ngulos diferentes}{19}
+\contentsline {subsection}{\numberline {5.3}Interpolando \IeC {\'a}ngulos con {\tt jtraj} y {\tt ctraj}}{20}
+\contentsline {subsubsection}{\numberline {5.3.1}Interpolando \IeC {\'a}ngulos con {\tt jtraj}}{20}
+\contentsline {subsubsection}{\numberline {5.3.2}Interpolando transformaciones con {\tt ctraj}}{20}
+\contentsline {section}{\numberline {6}Conclusi\IeC {\'o}n}{21}
